@@ -38,6 +38,6 @@ $loader = new FilesystemLoader(__DIR__.'/views/%name%');
 
 $templating = new PhpEngine(new TemplateNameParser(), $loader);
 
-echo $templating->render('hello.php', array('message' => $message, 'captcha' => $captcha ,'firstname' => 'Fabien'));
+echo $templating->render('hello.php', array('message' => $message, 'captcha' => $captcha));
 
 ?>
