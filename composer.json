@@ -1,0 +1,7 @@
+{
+    "require": {
+        "hashids/hashids": "1.0.4",
+		"gregwar/captcha-bundle": "dev-master",
+		"symfony/templating": "*"
+    }
+}

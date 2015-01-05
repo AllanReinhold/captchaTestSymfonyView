@@ -1,0 +1,1 @@
+This is just a test With Symfony Templatinf and Captcha and Hashids. Without using any other component.
